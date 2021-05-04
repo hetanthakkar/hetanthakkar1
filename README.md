@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetanthakkar1)](https://hetanthakkar1.github.io/website/)
 <h1 align="center">Hi 👋, I'm Hetan Thakkar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
