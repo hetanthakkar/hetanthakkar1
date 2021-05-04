@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetanthakkar1&label=Profile%20views&color=0e75b6&style=flat" alt="hetanthakkar1" /> </p>
 
-- 🔭 I’m currently working on **Elastic**
+- 🔭 I’m currently working on  **React Native Elements** **Elastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
